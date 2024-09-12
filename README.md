@@ -1,6 +1,7 @@
 # WFmultigroup
 
 Multilevel Multigroup Structural Equation Modeling In A Single-Level Framework
+https://www.researchgate.net/publication/383977518_Multilevel_Multigroup_Structural_Equation_Modeling_In_A_Single-Level_Framework
 
 R code and data for simulation study, empirical illustration, and other figures of simulated data in the manuscript.
 
