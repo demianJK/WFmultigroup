@@ -26,7 +26,7 @@ PISA <- read.spss("../CY08MSP_STU_QQQ.SAV", to.data.frame=TRUE, use.value.labels
 # the data frame is in LF (i.e., each row corresponds to a student)
 
 # If you don't want to run the multiple imputation, simply load the final data frame and continue in line 409.
-PISA_short_balanced_imp <- read.csv(file = "/Users/julia/Documents/Arbeit/Promotion/Forschung/Projects/03_WFmultigroup/numerical_ex/PISA_short_balanced_imp.csv")
+PISA_short_balanced_imp <- read.csv(file = "../PISA_short_balanced_imp.csv")
 
 
 
